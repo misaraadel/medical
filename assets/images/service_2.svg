@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 398 398" style="enable-background:new 0 0 398 398;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0c7f98;stroke:#0c7f98;stroke-width:4;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#093252;stroke-width:20;stroke-miterlimit:10;}
+	.st2{fill:#093252;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M250.4,306v71.3H20.6V48.8h64.2L90.3,77h90.4l5.8-28.2h63.9v81.3l16.6-6.7V32.2h-77.1L195.7,4H76.2l5.4,28.2    H4V394h263v-81.3 M175.7,20.6l-8.3,39.8h-63l-7.5-39.8H175.7z"/>
+		<rect x="47.5" y="118.5" class="st0" width="174.8" height="16.6"/>
+		<path class="st0" d="M211.1,193.1c-0.1-0.1-0.2-0.2-0.3-0.3c-2.2-2.4-2.8-5.7-2.5-8.8H47.5v16.6h162.3    C210.1,198.1,210.6,195.6,211.1,193.1z"/>
+		<path class="st0" d="M210.7,249H47.5v16.6h171.9C216.1,260.3,213.2,254.7,210.7,249z"/>
+		<rect x="47.5" y="314" class="st0" width="174.8" height="16.6"/>
+	</g>
+	<path class="st1" d="M295.2,307.2c-49.6,0-89.3-40.6-89.3-89.3s40.6-89.3,89.3-89.3c49.6,0,89.3,40.6,89.3,89.3   S344.9,307.2,295.2,307.2z"/>
+	<polygon class="st2" points="340,173.3 276.1,237.2 250.4,211.5 238.8,223.1 276.1,260.4 351.6,184.9  "/>
+</g>
+</svg>
