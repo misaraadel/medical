@@ -1368,14 +1368,20 @@ footer .contain .links li a {
 }
 
 @media (max-width: 999px) {
+  .navbar {
+    padding: 0px !important;
+  }
   .navbar .hamburger {
     display: block !important;
   }
+  .navbar .brand-name img {
+    height: 45px !important;
+  }
   .navbar .navbar-nav {
     width: 100% !important;
-    height: calc(100vh - 90px);
+    height: calc(100vh - 45px);
     position: absolute;
-    top: 90px;
+    top: 45px;
     right: -100%;
     z-index: 999;
     background-color: var(--light-color);
@@ -1394,13 +1400,19 @@ footer .contain .links li a {
     right: 0px !important;
   }
   header {
-    padding-bottom: 70px;
+    padding-top: 70px !important;
+    padding-bottom: 40px;
   }
   header h1 {
     font-size: 20px !important;
   }
-  footer .contain .brand-name img {
-    -o-object-position: right;
-       object-position: right;
+  footer {
+    display: none;
+  }
+  .general-section {
+    padding: 40px 0px 20px !important;
+  }
+  .heading {
+    margin-bottom: 20px !important;
   }
 }/*# sourceMappingURL=style.css.map */
